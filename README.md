@@ -10,7 +10,7 @@
   2. Наличие случайного блуждания на различных фин. рынках [4]
   
  
-Ссылка на ноутбку с примерами: https://nbviewer.jupyter.org/github/starkovad/local-approximation/blob/master/la.ipynb
+Ссылка на ноутбук с примерами: https://nbviewer.jupyter.org/github/starkovad/local-approximation/blob/master/la.ipynb
 
 # references
 
