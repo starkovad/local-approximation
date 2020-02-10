@@ -8,6 +8,9 @@
   
   1. Хаотичность финансовых временных рядов на различных фин.рынках 
   2. Оценить доли случайного блуждания на всей доступной истории по рынкам [4]
+  
+ 
+Ссылка на nbviewer: https://nbviewer.jupyter.org/github/starkovad/local-approximation/blob/master/la.ipynb
 
 # references
 
