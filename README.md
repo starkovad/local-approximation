@@ -4,18 +4,14 @@
   
   Работа посвящена анализу финансовых временных рядов. Задача сводится к построению предсказательной модели будущих цен финансовых активов (акций, валюты, и т.д.) с достаточной точностью для её дальнейшего применения в торговле. Для этих целей предлагается подход в основе которого лежит метод локальной аппроксимации (local approximation method).
   
+  Необходимо подтвердить экспериментально ряд гипотез:
   
-  Необходимо найти функции Fτ:
-  
-   $$ x_{i+/tau} = F_{/tau}(x_i) $$,
-
-   где
-
-   x_i - вектор в реконструированном ф.п. в момент ti
-   F_{/tau} - зависимость будущего значения x_{i+/tau} от предыдущих x_i
+  1. Хаотичность финансовых временных рядов на различных фин.рынках 
+  2. Оценить доли случайного блуждания на всей доступной истории по рынкам [4]
 
 # references
 
 1. J. Doyne Farmer and John J. Sidorowich, Predicting chaotic time series. Phys. Rev. Lett. 59, 845 – Published 24 August 1987
 2. Istomin, IA & Kotlyarov, O. & Loskutov, A.. (2005). The problem of processing time series: Extending possibilities of the local approximation method using singular spectrum analysis. Theoretical and Mathematical Physics. 142. 128-137. 10.1007/s11232-005-0077-y. 
 3. Broer, H., & Takens, F. (2011). Dynamical Systems and Chaos. Applied Mathematical Sciences.
+4. М. М. Дубовиков, Н. В. Старченко, Эконофизика и фрактальный анализ финансовых временных рядов, УФН, 2011, том 181, номер 7, 779–786
